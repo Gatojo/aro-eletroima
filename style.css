@@ -1,0 +1,178 @@
+.icone {
+    width: 190px;
+    height: 120px;
+}
+
+.navegacao {
+    font-size: 18px;
+    margin-right: 90px;
+
+}
+
+.texto {
+    color: white;
+    background-color: #dc3545;
+    height: 30px;
+    text-align: center;
+    font-size: 18px;
+}
+
+
+.btn-red {
+    color: #fff;
+    background-color: #dc3545;
+    border-color: #dc3545;
+
+}
+
+.borda {
+    color: white;
+    background-color: #333333;
+    height: 30px;
+    text-align: center;
+    font-size: 18px;
+}
+
+section.produto .esquerda-produto {
+    color: #fff;
+    padding: 50px 0px 0px 50px;
+
+}
+
+section.produto .direita-produto {
+    padding: 39px 67px 39px 51px;
+
+}
+
+section.produto {
+    background-image: url('background.png');
+}
+
+img.icones1 {
+    padding: 32px;
+    margin-right: 5px;
+    margin-top: -51px;
+}
+
+img.icones2 {
+    margin-top: -26px;
+    padding: 7px;
+    margin-left: 139px;
+    margin-bottom: 29px;
+}
+
+img.img-produto {
+    width: 350px;
+    height: 250px;
+    border-radius: 5px;
+    border: 16px solid #dc3545;
+    max-width: 100%;
+    
+    
+}
+
+
+
+.divLeft {
+    width: 49.5%;
+    height: 549px;
+    float: left;
+
+}
+
+.spaceText {
+    padding-right: 16px;
+
+}
+
+#photo {
+    width: 1600px;
+    height: 520px;
+}
+
+.textDiv {
+    /* position: absolute;
+   top: 0;
+   left: 0;
+    */
+    float: left;
+    /*cor apenas para exmplo*/
+    color: #fff;
+}
+
+.detalhes {
+    padding: 80px;
+    font-size: 16px;
+}
+
+.box-redonda {
+    border: solid 2px;
+    border-radius: 50%;
+    text-align: center;
+    width: 252px;
+    padding: 57px 22px 50px 30px;
+    border-left: none;
+    border-top: none;
+    border-color: #ff4d4d;
+    margin-left: 148px;
+    height: 232px;
+    margin-bottom: 28px;
+}
+
+img.rodape-icone {
+    width: 176px;
+    height: 76px;
+    padding: 5px;
+    margin-top: 3px;
+}
+
+.wrapper-rodape {
+
+    background-color: #231f20;
+}
+
+.rodapé-texto {
+    text-align: center;
+    color: #ffffff;
+    margin-top: 20px;
+}
+
+button.btn.btn-red.btn-lg {
+    
+    border-radius: 10px;
+    height: 50px;
+    width: 170px;
+    margin-top: 19px;
+    color: #ffffff;
+    padding: 5px;
+    margin-bottom: 10px;
+    
+}
+
+@media(max-width:1080px){
+    .barra-superior {
+        display: none;
+    }
+}
+
+@media(max-width:770px){
+    .direita-produto {
+        display: block;
+    }
+}
+
+.rodapé-icone{
+    height: 80px;
+}
+
+.rodape-texto{
+    margin-top: 30px;
+    color: white;
+
+
+}
+
+.row{
+    margin-right: 0px;
+    margin-left: 0px;
+}
