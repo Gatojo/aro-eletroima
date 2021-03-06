@@ -9,6 +9,8 @@
 
 }
 
+
+
 .texto {
     color: white;
     background-color: #dc3545;
@@ -45,7 +47,7 @@ section.produto .direita-produto {
 }
 
 section.produto {
-    background-image: url('background.png');
+    background-image: url('../img/background.png');
 }
 
 img.icones1 {
